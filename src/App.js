@@ -2,7 +2,6 @@ import React from 'react';
 import Home from './pages/Home/Home';
 import AboutUs from './pages/AboutUs/AboutUs';
 import LearnReact from './pages/LearnReact/LearnReact';
-
 import {
   BrowserRouter as Router,
   Switch,
