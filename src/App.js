@@ -51,8 +51,4 @@ function App() {
   );
 }
 
-function PageNotFound() {
-  return <div> <h1>Page Not Found</h1> please go to out homepage and find something there <Link to="/">Click me</Link>  </div>
-}
-
 export default App;
